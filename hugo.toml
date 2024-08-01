@@ -1,0 +1,77 @@
+baseURL = "https://barbless.ngo"
+theme = "hugo-simple"
+languageCode = "en"                # zh-Hans
+title = "Barbless - A mapping non-profit"
+copyright = "© Barbless"
+
+# Generate a nice robots.txt for SEO
+enableRobotsTXT = true
+
+# https://github.com/gohugoio/hugo/issues/12152
+capitalizeListTitles = false
+
+# Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
+disableKinds = ["taxonomy"]
+# ignoreErrors = ["error-disable-taxonomy"]
+[taxonomies]
+tag = "tags"
+
+[permalinks]
+blog = "/:slugorfilename/"
+tags = "/blog/:slug"
+
+[markup.goldmark.renderer]
+unsafe = true
+[markup.tableOfContents]
+startLevel = 2
+endLevel = 4
+[markup.highlight]
+lineNos = true
+lineNumbersInTable = false
+noClasses = true
+style = "catppuccin-mocha"
+
+[params]
+title = "Barbless"
+description = "A non-profit decicated to aviation maps"
+favicon = "images/favicon.png"
+dateFormat = "2006-01-02"
+hideMadeWithLine = true
+hideRSSLink = true
+
+[menu]
+
+# Main menu
+[[menu.main]]
+    name       = "Home"
+    identifier = "menu.home"
+    url        = "/"
+    weight     = 1
+
+#[[menu.main]]
+#    name       = "For Pilots"
+#    identifier = "menu.for-pilots"
+#    url        = "/for-pilots/"
+#    weight     = 3
+
+#[[menu.main]]
+#    name       = "About Us"
+#    url        = "/about/"
+#    weight     = 4
+
+#[[menu.main]]
+#    name       = "Blog"
+#    identifier = "menu.blog"
+#    url        = "/blog/"
+#    weight     = 5
+
+[[menu.main]]
+    name       = "Donate"
+    identifier = "menu.donate"
+    url        = "/donate/"
+    weight     = 6
+
+[outputs]
+section = ["html"]
+taxonomy = ["html"]
+term = ["html"]
