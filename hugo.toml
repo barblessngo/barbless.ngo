@@ -75,3 +75,4 @@ hideRSSLink = true
 section = ["html"]
 taxonomy = ["html"]
 term = ["html"]
+page = ["html"]
