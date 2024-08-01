@@ -1,7 +1,7 @@
 +++
 title = 'Barbless'
 date = 2024-07-31T17:39:20-07:00
-draft = true
+draft = false
 +++
 
 Barbless is a non-profit dedicated to collecting and delivering mapping products by tasking the volunteer aviation community.
