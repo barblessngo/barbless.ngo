@@ -5,6 +5,6 @@ draft = false
 +++
 ### Barbless is Volunteer and Donation Supported
 
-If you'd like to fly with us, contribute to our products, or just send some money our way, please send us a note!
+If you'd like to fly with us, or contribute in any way, please send us a note!
 
 [fly\@barbless.ngo](mailto:fly@barbless.ngo?subject=Donate)
