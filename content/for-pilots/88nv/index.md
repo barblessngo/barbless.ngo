@@ -42,7 +42,4 @@ Here is the source (please submit issues!):
 
 https://github.com/barblessngo/88NV
 
-
-![88NV Charts](images/88nv1.jpeg)
-
 {{< figure src="images/88nv1.jpeg" title="Example Chart Overlay" >}}
