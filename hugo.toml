@@ -64,6 +64,11 @@ hideRSSLink = true
 #    identifier = "menu.blog"
 #    url        = "/blog/"
 #    weight     = 5
+[[menu.main]]
+    name       = "Aircraft"
+    identifier = "menu.aircraft"
+    url        = "/aircraft/"
+    weight     = 5
 
 [[menu.main]]
     name       = "Donate"
