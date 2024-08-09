@@ -8,9 +8,9 @@ Barbless is a non-profit dedicated to collecting and delivering mapping products
 
 Our current projects include:
 
-* Humanitarian Air Response Team (HART), flying aerial imaging for Hurricane relief in the Caribbean
-* Foreflight Content Pack for Mexico and Central America
+* Humanitarian Air Response Team (HART), flying aerial imaging for Hurricane relief in the Caribbean (Nov 2024)
+* Foreflight Content Pack for Mexico and Central America (Jan 2025)
 * [Foreflight Content Pack for the Burningman Airport (88NV)](/for-pilots/88nv/)
-* ForeFlight Content Pack for backcountry aviators
-* Building the _Unidrome_, the worlds most complete list of airports in the world
+* ForeFlight Content Pack for backcountry aviators 
+* Building the _Unidrome_, the worlds most complete list of airports in the world (Oct 2024)
 * Keeping OpenStreetMap airports up to date, globally
