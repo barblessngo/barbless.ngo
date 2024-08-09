@@ -14,7 +14,7 @@ The following is a Foreflight Content Pack that will overlay the 88NV charts on 
 
 Scan this on your iphone or ipad and it'll install into foreflight ([or click this link on your iOS device](https://foreflight.com/content/?downloadURL=https://assets.barbless.net/content-packs/88NV.zip)).
 
-![QR Code](/for-pilots/88nv/qr.png)
+{{< figure src="images/88nv-qr.png" title="Scan to Install" >}}
 
 After scanning:
 
@@ -43,5 +43,6 @@ Here is the source (please submit issues!):
 https://github.com/barblessngo/88NV
 
 
-![88NV Charts](/for-pilots/88nv/88nv1.jpeg)
+![88NV Charts](images/88nv1.jpeg)
 
+{{< figure src="images/88nv1.jpeg" title="Example Chart Overlay" >}}
