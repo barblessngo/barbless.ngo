@@ -12,5 +12,5 @@ Our current projects include:
 * Foreflight Content Pack for Mexico and Central America (Jan 2025)
 * [Foreflight Content Pack for the Burningman Airport (88NV)](/for-pilots/88nv/)
 * ForeFlight Content Pack for backcountry aviators 
-* Building the _Unidrome_, the worlds most complete list of airports in the world (Oct 2024)
+* Building the _Unidrome_, the worlds most complete list of airports (Oct 2024)
 * Keeping OpenStreetMap airports up to date, globally
